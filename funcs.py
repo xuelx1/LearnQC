@@ -41,9 +41,11 @@ def optimize_qc(qc):
     i = 0  
     while (i < len(qc.data) - 1):  
         # check if the current and next operations are both X gates and have the same target qubit 
-        next = infuncs_find_next_opt(qc, i)
-        if (next > i):
-            del qc.data[i, next]
-        else:
-            i += 1
+        if (qc.data[i].operation.name == 'x'):
+            next = infuncs_find_next_opt(qc, i)
+            print(qc.data[i].operation.name, i, next)
+            if (next > i):
+                del qc.data[i, next]
+            else:
+                i += 1
     return qc 
