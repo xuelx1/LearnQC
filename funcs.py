@@ -4,6 +4,7 @@ frequently used functions
 from qiskit_ibm_runtime.fake_provider import FakeProvider
 from qiskit_aer import AerSimulator
 from qiskit import QuantumCircuit, transpile
+import numpy as np
 
 def execute_qc(qc):
     '''
@@ -14,4 +15,3 @@ def execute_qc(qc):
     job = backend.run(new_qc)
     result = job.result()
     return result.get_counts()
-
