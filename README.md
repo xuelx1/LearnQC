@@ -10,6 +10,8 @@
  3. quantum teleportation. Use two classical bits to send one qubit of information.
  4. oracle. How to build a quantum oracle, which appears in Deustch-Jozsa algorithm and Simon algorithm.
  5. adjacency matrix. Given a adjacency matrix, use it to generate a quantum circuit to judge whether two given vertices are connected. In other words, how to use quantum circuit to store a graph.
+ 6. Deustch-Jozsa algorithm. Judge if a function is const or balanced.
+ 7. Simon algorithm. Given a function, find a string s st. f(x) = f(y), iff x = (y xor s) or x = y.
 
 ### envs:
 1. qiskit  1.1.0
