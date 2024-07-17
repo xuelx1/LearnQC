@@ -13,6 +13,7 @@
  6. Deustch-Jozsa algorithm. Judge if a function is const or balanced.
  7. Simon algorithm. Given a function, find a string s st. f(x) = f(y), iff x = (y xor s) or x = y.
  8. exp2oracle. Given a boolean expression, convert it to a quantum circuit.
+ 9. phase_estimation. Estimate the phase of a given function.
  
 
 ### envs:
