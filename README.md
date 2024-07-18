@@ -13,7 +13,10 @@
  6. Deustch-Jozsa algorithm. Judge if a function is const or balanced.
  7. Simon algorithm. Given a function, find a string s st. f(x) = f(y), iff x = (y xor s) or x = y.
  8. exp2oracle. Given a boolean expression, convert it to a quantum circuit.
+ 8.1 examples below need some rotation gates, I collected them in simplecircuit.ipynb.
  9. phase_estimation. Estimate the phase of a given function.
+ 10. qft. Quantum Fourier Transform. And Inverse Quantum Fourier Transform.
+ 10. order_finding. Given N and a (gcd(a,N)=1), find minimal positive integer r st. a^r = 1 (mod N). 
  
 
 ### envs:
