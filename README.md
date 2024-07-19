@@ -16,7 +16,7 @@
  8.1 examples below need some rotation gates, I collected them in simplecircuit.ipynb.
  9. phase_estimation. Estimate the phase of a given function.
  10. qft. Quantum Fourier Transform. And Inverse Quantum Fourier Transform.
- 10. order_finding. Given N and a (gcd(a,N)=1), find minimal positive integer r st. a^r = 1 (mod N). 
+ 10. shor. Shor's algorithm. Factoring a number.
  
 
 ### envs:
