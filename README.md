@@ -16,7 +16,9 @@
  8.1 examples below need some rotation gates, I collected them in simplecircuit.ipynb.
  9. phase_estimation. Estimate the phase of a given function.
  10. qft. Quantum Fourier Transform. And Inverse Quantum Fourier Transform.
- 10. shor. Shor's algorithm. Factoring a number.
+ 11. add_mul. addition and multiplication in quantum computing. It will be used in Shor's algorithm. (not finished)
+ 12. shor. Shor's algorithm. Factoring a number. (not finished)
+ 13. grover. Grover's algorithm. Searching for a string. (not finished)
  
 
 ### envs:
