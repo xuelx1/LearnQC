@@ -1,7 +1,8 @@
+ # * Copyright 2024 Xue_Lexiang
+ # * Licensed under MIT (https://github.com/xuelx1/LearnQC/LISENCE)
 '''
 frequently used functions
 '''
-from qiskit_ibm_runtime.fake_provider import FakeProvider
 from qiskit_aer import AerSimulator
 from qiskit import QuantumCircuit, transpile
 import numpy as np
