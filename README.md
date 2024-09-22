@@ -17,8 +17,9 @@
  9. phase_estimation. Estimate the phase of a given function.
  10. qft. Quantum Fourier Transform. And Inverse Quantum Fourier Transform.
  11. modular. Modular addition and multiplication. 
- 11. add_mul. addition and multiplication in quantum computing. It will be used in Shor's algorithm. (not finished)
- 12. shor. Shor's algorithm. Factoring a number. (not finished)
+ 11. add_mul. non-modular addition and multiplication in quantum computing. 
+ 12. modular. Quantum modular addition and multiplication used in shor algorithm.(not finished)
+ 12. shor. Shor's algorithm. Factoring a number. 
  13. grover. Grover's algorithm. Searching for a string. (not finished)
  
 
@@ -28,3 +29,10 @@
 3. qiskit_ibm_run  0.23.0
 4. matplotlib  3.9.1
 5. pylatexenc  2.10
+
+## Acknowledgments  
+  
+I sincerely thank the following projects and individuals for their contributions:  
+  
+- [shor_qiskit] (link: https://github.com/kazawai/shor_qiskit): This project provided [qpe_period_finding in Shor], which played a crucial role in our project. We particularly appreciate the generous sharing and excellent work of owner of this project.  
+  
