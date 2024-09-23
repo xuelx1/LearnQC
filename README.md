@@ -18,9 +18,8 @@
  10. qft. Quantum Fourier Transform. And Inverse Quantum Fourier Transform.
  11. modular. Modular addition and multiplication. 
  11. add_mul. non-modular addition and multiplication in quantum computing. 
- 12. modular. Quantum modular addition and multiplication used in shor algorithm.(not finished)
  12. shor. Shor's algorithm. Factoring a number. 
- 13. grover. Grover's algorithm. Searching for a string. (not finished)
+ 13. grover. Grover's algorithm. Searching for a string. 
  
 
 ### envs:
