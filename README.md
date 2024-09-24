@@ -20,6 +20,7 @@
  11. add_mul. non-modular addition and multiplication in quantum computing. 
  12. shor. Shor's algorithm. Factoring a number. 
  13. grover. Grover's algorithm. Searching for a string. 
+ 14. error_correction. Quantum Error Correction, or Shor's 9 qubit code.
  
 
 ### envs:
