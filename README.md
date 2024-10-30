@@ -21,6 +21,7 @@
  12. shor. Shor's algorithm. Factoring a number. 
  13. grover. Grover's algorithm. Searching for a string. 
  14. error_correction. Quantum Error Correction, or Shor's 9 qubit code.
+ 15. quantumwalk. Quantum Random Walk Search.(not finished)
  
 
 ### envs:
