@@ -1,8 +1,15 @@
 # LearnQC
- ### Continuing updating...
- Learing Quantum Computing with Qiskit.
+ ### Some Simple Quantum Algorithms 
+ I've stopped updating this project and I'll start a new stage of learning quantum algorithms, which can be found in another github repo of this user name. I plan to implement some VQEs, for example QAOA, and other more advanced applications. If this repo helped you in your learning, it is my great pleasure! 
 
- ### Until now includes:
+ ### Some words
+ I really appreciate all the efforts of IBM Quantum. Being easy-to-use and powerful, Qiskit is absolutely the best quantum language for begginers! However, I decide to use pyqpanda (developed by '本源量子') in my next project of quantum computing. As a result of many reasons(mainly political issues), qiskit developers in China won't get much support. Though I am a big fan of qiskit, gradually I can no longer hold on. I don't mean to blame IBM or someone, in fact, I believe we're all victims of some invisible boundaries... I know it's naive to expect some policians to give up restrictions on technologies against us. The best way to avoid suspicion of cheating is to become the top student, and that is what we are doing here in China. 
+
+ ### Contact me
+ My email:  [xuelx@mail2.sysu.edu.cn] 
+ QQ:  [2414181961]
+
+ ### Includes:
 
  1. hello_ibm, hello_qiskit. "Hello world" in Quantum Computing, to show how to build a simple quantum circuit and run it.
  1.1. Before starting, I writed some frequently-used functions in funcs.py and test_funs.py. I will use them in the following codes.
@@ -21,7 +28,6 @@
  12. shor. Shor's algorithm. Factoring a number. 
  13. grover. Grover's algorithm. Searching for a string. 
  14. error_correction. Quantum Error Correction, or Shor's 9 qubit code.
- 15. quantumwalk. Quantum Random Walk Search.(not finished)
  
 
 ### envs:
