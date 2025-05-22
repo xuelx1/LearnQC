@@ -2,9 +2,6 @@
  ### Some Simple Quantum Algorithms 
  I've stopped updating this project and I'll start a new stage of learning quantum algorithms, which can be found in another github repo of this user name. I plan to implement some VQEs, for example QAOA, and other more advanced applications. If this repo helped you in your learning, it is my great pleasure! 
 
- ### Some words
- I really appreciate all the efforts of IBM Quantum. Being easy-to-use and powerful, Qiskit is absolutely the best quantum language for begginers! However, I decide to use pyqpanda (developed by '本源量子') in my next project of quantum computing. As a result of many reasons(mainly political issues), qiskit developers in China won't get much support. Though I am a big fan of qiskit, gradually I can no longer hold on. I don't mean to blame IBM or someone, in fact, I believe we're all victims of some invisible boundaries... I know it's naive to expect some policians to give up restrictions on technologies against us. The best way to avoid suspicion of cheating is to become the top student, and that is what we are doing here in China. 
-
  ### Contact me
  My email:  [xuelx@mail2.sysu.edu.cn] 
  QQ:  [2414181961]
